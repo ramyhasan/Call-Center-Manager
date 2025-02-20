@@ -23,8 +23,8 @@
 ## 📂 Files in this Repository  
 | 📁 File Name               | 📄 Description |
 |----------------------------|-----------------------------|
-| [`Call Center Manager.pbix`](./Call_Center_Manager.pbix) | Interactive **Power BI Dashboard** file. |
-| [`Call Center Manager.pdf`](./Call_Center_Manager.pdf)  | **PDF report** summarizing key insights. |
+| [`Call Center Manager.pbix`](./Call Center Manager.pbix) | Interactive **Power BI Dashboard** file. |
+| [`Call Center Manager.pdf`](./Call Center Manager.pdf)  | **PDF report** summarizing key insights. |
 
 ---
 
